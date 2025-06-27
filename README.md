@@ -33,6 +33,11 @@ Hi! I am Famim Hayat.<br><br>🌱 I’m currently learning **Creative IT Institu
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
+---
+[![](https://visitcount.itsvg.in/api?id=famimhayat&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=FamimHayat&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
