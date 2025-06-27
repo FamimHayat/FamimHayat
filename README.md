@@ -27,6 +27,10 @@ Hi! I am Famim Hayat.<br><br>🌱 I’m currently learning **Creative IT Institu
 [![](https://visitcount.itsvg.in/api?id=famimhayat&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+[![](https://visitcount.itsvg.in/api?id=famimhayat&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ---
 [![](https://visitcount.itsvg.in/api?id=famimhayat&icon=0&color=0)](https://visitcount.itsvg.in)
