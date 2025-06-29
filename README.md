@@ -5,7 +5,7 @@
 
 
 # 💫 About Me:
-Hi! I am Famim Hayat.<br><br>🌱 I’m currently learning full-stack web development in **Creative IT Institute**<br>👨‍💻 All of my projects are available at FamimHayat<br><br>💬 Ask me about React<br><br>📫 How to reach me famimhayatyash@gmail.com<br><br>⚡ Fun fact watching Movies & Soccer Games
+Hi! I am Famim Hayat.<br><br>🌱 I’m currently learning full-stack web development in **Creative IT Institute**<br>👨‍💻 All of my projects are available at FamimHayat<br><br>💬 Ask me about javascript<br><br>📫 How to reach me famimhayatyash@gmail.com<br><br>⚡ Fun fact watching Movies & Soccer Games
 
 
 ## 🌐 Socials:
